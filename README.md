@@ -5,4 +5,4 @@
 
 ```pip install yagmail```
 
-All you gotta do is chance the variables within the script and dump all the targeted emails inside the JSON file (properly formatted).
+All you gotta do is change the variables and dump all the targeted emails inside the JSON file (properly formatted).
